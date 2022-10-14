@@ -1,0 +1,444 @@
+*
+{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.head
+{
+	width: 100%;
+	height: 60px;
+	background-color: #f8f9fa;
+}
+.head h2
+{
+	padding-left: 100px;
+	margin-top: 25px;
+	float: left;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+
+
+.head button
+{
+	float: right;
+	margin-right: 100px;
+	margin-top: 15px;
+	width: 85px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+    color: white;
+    font-size: 15px;
+	background-color: #007bff;
+}
+.headimg
+{
+	width: 100%;
+	height: 600px;
+	background-image: url(/content/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.headimg h1
+{
+	color: white;
+	text-align: center;
+	padding-top: 200px;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+.headimg input
+{
+	width: 400px;
+	height: 45px;
+	color: grey;
+	margin-left: 400px;
+	border-radius: 5px;
+	border: none;
+	margin-top: 30px;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.headimg button
+{
+	width: 150px;
+	height: 45px;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	background-color: #007bff;
+	margin-left: 10px;
+	font-size: 20px;
+}
+.design
+{
+	width: 100%;
+	height: 400px;
+	background-color: #f8f9fa;
+	float: left;
+
+}
+.design i
+{
+	margin-left: 150px;
+	margin-top: 120px;
+	color: #0053fe;
+	font-size:100px;
+}
+.img1
+{
+	width: 33%;
+	float: left;
+	margin-top: 13px;
+}
+.img1 h1
+{
+	margin-left: 100px;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+.img1 p
+{
+	
+	color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+.img2
+{
+	width: 33%;
+	float: left;
+}
+.img2 h1
+{
+	margin-left: 80px;
+	font-size: 30px;
+	padding-top: 10px;
+	font-family: sans-serif;
+}
+.img2 p
+{
+    text-align: center;
+	color: grey;
+	font-size: 20px;
+}
+.img3
+{
+	width: 33%;
+	float: left;
+	
+}
+.img3 h1
+{
+	margin-left: 120px;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding-top: 10px;
+}
+.img3 p
+{
+    text-align: center;
+	color: grey;
+	font-size: 20px;
+}
+.body
+{
+	width: 100%;
+	height: 700px;
+}
+.phone
+{
+	width: 100%;
+}
+.sol
+{
+	width: 50%;
+	float: left;
+	height: 450px;
+	background-color: #ffffff;
+}
+.sol h1
+{
+	text-align: center;
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-top: 200px;
+	font-size: 35px;
+	margin-right: 56px;
+}
+.sol p
+{
+	margin-left: 100px;
+	padding-top: 5px;
+	font-size: 23px;
+	color: grey;
+	font-family: sans-serif;
+}
+.sag 
+{
+	width: 50%;
+	float: right;
+}
+.sag img
+{
+	width: 100%;
+	height: 450px;
+}
+.kod
+{
+	width: 100%;
+
+}
+.sol2
+{
+	width: 50%;
+	float: left;
+}
+.sag2
+{
+	width: 50%;
+	float: right;
+	height: 450px;
+	background-color: #ffffff;
+}
+.sol2 img
+{
+	width: 100%;
+	height: 450px;
+}
+.sag2 h1
+{
+	text-align: center;
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-top: 150px;
+	font-size: 35px;
+	margin-right: 56px;
+} 
+.sag2 p 
+{
+	margin-left: 100px;
+	padding-top: 5px;
+	font-size: 23px;
+	color: grey;
+	font-family: sans-serif;
+	text-align: left;
+}
+.usaq
+{
+	width: 100%;
+}
+.sag3
+{
+	width: 50%;
+	float: right;
+
+}
+.sag3 img
+{
+	width: 100%;
+	height: 450px;
+}
+.sol3
+{
+	width: 50%;
+	float: left;
+	height: 450px;
+	background-color: #ffffff;
+}
+.sol3 h1
+{
+	text-align: center;
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-top: 150px;
+	font-size: 35px;
+	margin-right: 56px;
+}
+.sol3 p 
+{
+	margin-left: 100px;
+	padding-top: 5px;
+	font-size: 23px;
+	color: grey;
+	font-family: sans-serif;
+	text-align: left;
+}
+.section
+{
+	width: 100%;
+	height: 1000px;
+	background-color: #f8f9fa;
+}
+.people
+{
+	width: 100%;
+	height: 600px;
+	background-color: #f8f9fa;
+}
+.people h1
+{
+	text-align: center;
+	padding-top: 100px;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.people img
+{
+
+	margin-left: 100px;
+	border-radius: 50%;
+	margin-top: 50px;
+}
+.pimg1
+{
+	width: 33%;
+	float:left;
+}
+.pimg1 h2
+{
+	text-align: center;
+}
+.pimg1 p
+{
+	text-align: center;
+	color: grey;
+}
+.pimg2
+{
+	width: 33%;
+	float:left;
+}
+.pimg2 h2
+{
+	text-align: center;
+}
+.pimg2 p
+{
+	text-align: center;
+	color: grey;
+}
+.pimg3
+{
+	width: 33%;
+	float:left;
+}
+.pimg3 h2
+{
+	text-align: center;
+}
+.pimg3 p
+{
+	text-align: center;
+	color: grey;
+}
+.footimg
+{
+	width: 100%;
+	height: 300px;
+	background-position: center center;
+	background-size: cover;
+	background-image: url(/content/bg-masthead.jpg);
+}
+.footimg input
+{
+	width: 400px;
+	height: 45px;
+	color: grey;
+	margin-left: 400px;
+	border-radius: 5px;
+	border: none;
+	margin-top: 20px;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.footimg button
+{
+	width: 150px;
+	height: 45px;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	background-color: #007bff;
+	margin-left: 10px;
+	font-size: 20px;
+}
+.footimg h1
+{
+	color: white;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 90px;
+}
+.last
+{
+	width: 100%;
+	height: 170px;
+	background-color: #f8f9fa;
+
+}
+.lasta
+{
+	width: 80%;
+	float: left;
+	margin-top: 70px;
+	margin-left: 80px;
+}
+.lasta a
+{
+	text-decoration: none;
+	padding-left: 20px;
+	color: blue;
+}
+.last p
+{
+	float: left;
+	margin-left:100px;
+	color: grey;
+	padding-top: 10px;
+
+}
+.lastimg
+{
+	width: 20%;
+	float: right;
+	margin-top: -20px;
+}
+.lastimg i
+{
+	margin-right:20px;
+	font-size: 30px;
+	color:  #0053fe;
+
+
+
+}
+@media(max-width: 768px)
+{   
+	.headimg{width: 100%; float:right;}
+	.headimg input{width: 100%;}
+	.headimg button{width: 100%;}
+    .img1{width: 100%;}
+    .img2{width: 100%;}
+    .img3{width: 100%;}
+    .sol{width: 100%;}
+    .sag{width: 100%;}
+    .sol2{width: 100%;}
+    .sag2{width: 100%;}
+    .sol3{width: 100%;}
+    .sag3{width: 100%;}
+    .pimg1{width: 100%;}
+    .pimg2{width: 100%;}      
+    .pimg3{width: 100%}
+    .footimg button{width: 100%;}
+    .lasta{width: 100%;}
+    .lastimg{width: 100%;margin-left: 30px;}
+
+}
+
